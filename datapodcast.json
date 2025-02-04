@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "audio_url": "https://raw.githubusercontent.com/MassinDV/medi1podcast/refs/heads/main/milafat-policia/hls/eps-02.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/MassinDV/medi1podcast/refs/heads/main/milafat-policia/eps-01.m3u8"
+    },
+    {
+        "id": "2",
+        "audio_url": "https://raw.githubusercontent.com/MassinDV/medi1podcast/refs/heads/main/milafat-policia/hls/eps-02.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/MassinDV/medi1podcast/refs/heads/main/milafat-policia/eps-02.m3u8"
+    }
+]
